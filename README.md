@@ -8,7 +8,7 @@
 - 📫 How to reach me **touheedfayyaz@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/mt2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mt2004" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/toheed2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mt2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
